@@ -1,0 +1,59 @@
+#container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 10px;
+    color: white;
+}
+#p1{
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+#p2{
+    background-color: aqua;
+    height: 100px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#a{
+background-color: aqua;
+height: 100px;
+width: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    color: white;
+}
+.links{
+    background-color: blueviolet;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    color: white;
+}
+#v{
+    text-align: center;
+}
+.name{
+    background-color: green;
+}
+#tab{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#s{
+    text-align: center;
+    
+}
